@@ -16,7 +16,8 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Hands-Free Music for My Daughter, Thanks to AI](https://guoest.github.io/2024/09/08/sing-story.html)
+- [Let’s Sing Zoe](https://guoest.github.io/2024/09/04/sing-zoe.html)
 - [Image Processing Project: A Room Classifier](https://guoest.github.io/2024/04/10/hc.html)
-- [State of GenAI with Microsoft AI Tour 2024](https://guoest.github.io/2024/02/09/ms.html)
+- [State of GenAI with Microsoft AI Tour](https://guoest.github.io/2024/02/09/ms.html)
 - [A Closer Look at V* - Visual Search that Outperforms GPT-4V](https://guoest.github.io/2024/02/03/vstar.html)
 <!-- BLOG-POST-LIST:END -->
