@@ -15,9 +15,9 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Became a Machine Learning Engineer Without a Degree &lpar;and You Can Too!&rpar;](https://guoest.github.io/2025/04/06/ml-journey.html)
 - [Check Your Home’s Sustainability Score](https://guoest.github.io/2024/10/10/sustainability.html)
 - [Hands-Free Music for My Daughter, Thanks to AI](https://guoest.github.io/2024/09/08/sing-story.html)
 - [Let’s Sing Zoe](https://guoest.github.io/2024/09/04/sing-zoe.html)
 - [Image Processing Project: A Room Classifier](https://guoest.github.io/2024/04/10/hc.html)
-- [State of GenAI with Microsoft AI Tour](https://guoest.github.io/2024/02/09/ms.html)
 <!-- BLOG-POST-LIST:END -->
