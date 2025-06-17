@@ -2,7 +2,7 @@
 
 I'm an engineer and technologist with nearly one decade of experience across top companies in the Asia Pacific.
 
-- 🇦🇺 I'm currently based in Melbourne, Australia. (Previously Sydney)
+- 🇦🇺 I'm currently based in Melbourne, Australia.
 - 🧠 Working on applied data science, generative AI, NLP and image processing at REA Group (ASX:REA).
 - 🌱 Previously DevOps engineer focusing on productionazing and scaling software and machine learning workloads.
 - ✍️ Writing regularly on my [Blog](https://guoest.github.io/).
