@@ -15,9 +15,9 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [State of AI with Google AI Live 2025](https://guoest.github.io/tech/2025/05/27/google.html)
-- [How I Became a Machine Learning Engineer Without a Degree &lpar;and You Can Too!&rpar;](https://guoest.github.io/tech/2025/04/06/ml-journey.html)
-- [Check Your Home’s Sustainability Score](https://guoest.github.io/tech/2024/10/10/sustainability.html)
-- [Hands-Free Music for My Daughter, Thanks to AI](https://guoest.github.io/life/tech/2024/09/08/sing-story.html)
-- [Let’s Sing Zoe](https://guoest.github.io/life/2024/09/04/sing-zoe.html)
+- [I Built a Buy Me a Coffee Clone in 6 Hours Using AI &lpar;And You Can Too&rpar;](http://blog.beyondintelligence.dev/tech/2025/07/17/coffee-blog-post.html)
+- [State of AI with Google AI Live 2025](http://blog.beyondintelligence.dev/tech/2025/05/27/google.html)
+- [How I Became a Machine Learning Engineer Without a Degree &lpar;and You Can Too!&rpar;](http://blog.beyondintelligence.dev/tech/2025/04/06/ml-journey.html)
+- [Check Your Home’s Sustainability Score](http://blog.beyondintelligence.dev/tech/2024/10/10/sustainability.html)
+- [Hands-Free Music for My Daughter, Thanks to AI](http://blog.beyondintelligence.dev/life/tech/2024/09/08/sing-story.html)
 <!-- BLOG-POST-LIST:END -->
