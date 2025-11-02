@@ -15,9 +15,9 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Path I Didn’t Plan](https://blog.beyondintelligence.dev/life/2025/11/01/the-path-i-didnt-plan.html)
 - [Why Now Is the Best Time to Start a Company](https://blog.beyondintelligence.dev/tech/2025/09/19/why-now-is-the-best-time-to-start-a-company.html)
 - [为什么现在是创业的最佳时机](https://blog.beyondintelligence.dev/zh/tech/2025/09/19/why-now-is-the-best-time-to-start-a-company.html)
 - [I Built a Buy Me a Coffee Clone in 6 Hours Using AI &lpar;And You Can Too&rpar;](https://blog.beyondintelligence.dev/tech/2025/07/17/coffee-blog-post.html)
 - [我用AI在6小时内构建了Buy Me a Coffee克隆版（你也可以）](https://blog.beyondintelligence.dev/zh/tech/2025/07/17/coffee-blog-post.html)
-- [State of AI with Google AI Live 2025](https://blog.beyondintelligence.dev/tech/2025/05/27/google.html)
 <!-- BLOG-POST-LIST:END -->
