@@ -8,8 +8,9 @@ I'm an engineer and technologist with nearly one decade of experience across top
 - ✍️ Writing regularly on my [Blog](https://guoest.github.io/).
 - 🏃‍♂️ Passionate about endurance sports, with numerous Ironman [Triathlons](https://www.multisportaustralia.com.au/races/ironman-703-western-sydney-2022/events/1/results/individuals/892) and [Marathons](https://my1.raceresult.com/225892/certificate/157/Certificates) completed, and a certified running coach. Founded [The Smart Runner](https://thesmartrunner.co/) community.
 - 💬 Ask me about **artificial intelligence, cloud, devops**.
+- 🤝 I’m available for consulting engagements in AI/ML, MLOps, cloud infrastructure, and production engineering.
 
-I'm always open to building, contributing, collaborating, and chatting. Feel free to [📫 reach out](https://www.linkedin.com/in/yichengguo/).
+I'm always open to building, contributing, collaborating, consulting, and chatting. Feel free to [📫 reach out](https://www.linkedin.com/in/yichengguo/).
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/YichengGuo4938) ](https://twitter.com/YichengGuo4938/)
 
